@@ -5,7 +5,7 @@
 ## How to use it?
 - Clone the repository.
 - I've used version 15.8 of Node, so I'm not sure if it'll work with a different version; Anyways make sure you have node installed.
-- You have to include the bot's token in an environment variable called VRC_BOT_TOKEN.
+- You have to include the bot's token in an environment variable called **VRC_BOT_TOKEN**.
 - Run `npm install` to install dependancies.
 - Run the bot using `npm run bot` from inside the cloned repository.
 - Use the command `;start;` while mentioning members you'd like to start recording for.
